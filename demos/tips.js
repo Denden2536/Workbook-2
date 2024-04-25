@@ -11,4 +11,4 @@ console.log("The Total due is" + totalDue);
 
 console.log("Food cost is" + foodCost + "and tax is" + tax);
 console.log("Tip is" + tip);
-console.log("Total Due is" + totalDue)
+console.log("Total Due is" + totalDue);
